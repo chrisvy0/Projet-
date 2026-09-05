@@ -1,0 +1,27 @@
+[
+    {
+        "nom": "Mbaye",
+        "prenom": "Mamadou",
+        "salaire": 350000
+    },
+    {
+        "nom": "Fall",
+        "prenom": "Awa",
+        "salaire": 420000
+    },
+    {
+        "nom": "Diop",
+        "prenom": "Ibrahima",
+        "salaire": 280000
+    },
+    {
+        "nom": "Sow",
+        "prenom": "Fatou",
+        "salaire": 500000
+    },
+    {
+        "nom": "Ba",
+        "prenom": "Ousmane",
+        "salaire": 390000
+    }
+]
